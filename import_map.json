@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "amqplib": "https://esm.sh/amqplib@0.10.3",
+    "node/": "https://deno.land/std@0.160.0/node/"
+  }
+}
